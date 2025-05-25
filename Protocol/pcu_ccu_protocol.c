@@ -140,11 +140,7 @@ int dispatch_command(UART_Frame_t *recv_frame, uint16_t frame_len)
 void init_timer(void)
 {
     printf("hello");
-<<<<<<< Updated upstream
-    printf("create a new branch\n");
-=======
     printf("add on line");
->>>>>>> Stashed changes
 }
 
 
