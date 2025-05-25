@@ -137,4 +137,9 @@ int dispatch_command(UART_Frame_t *recv_frame, uint16_t frame_len)
     return 0;
 }
 
+void init_timer(void)
+{
+    printf("hello");
+}
+
 
